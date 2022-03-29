@@ -2,7 +2,7 @@ type: update
 name: XXX
 description: XXX
 logo: images/XXX
-baseUrl: https://raw.githubusercontent.com/panslothda/XXX
+baseUrl: https://raw.githubusercontent.com/Aureliolo/XXX
 skipNodeEmails: true
 
 globals:

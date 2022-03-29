@@ -2,7 +2,7 @@ type: update
 name: Redeploy XXX
 description: XXX
 logo: images/XXX
-baseUrl: https://raw.githubusercontent.com/panslothda/XXX/master
+baseUrl: https://raw.githubusercontent.com/Aureliolo/XXX/master
 skipNodeEmails: true
 
 globals:
